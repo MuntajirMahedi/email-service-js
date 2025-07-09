@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Resilient Email Service (JavaScript)
 
 ## Features
@@ -21,3 +22,6 @@ node index.js
 - `retry.js`: Sleep utility for backoff
 - `rateLimiter.js`: Simple token-bucket limiter
 - `sentEmails.js`: Memory store for idempotency
+=======
+# email-service-js
+>>>>>>> 359c7505a902ed9ace3129a423e58bd1e23d4b97
